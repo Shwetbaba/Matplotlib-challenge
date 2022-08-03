@@ -1,21 +1,17 @@
 # Matplotlib-challenge
-
 _**Download the raw excel data to help you get started:**_
-This assignment is broken down into the following tasks:
 
-Prepare the data.
 
-Generate summary statistics.
 
-Create bar charts and pie charts.
+**This assignment is broken down into the following tasks:**
 
-Calculate quartiles, find outliers, and create a box plot.
-
-Create a line plot and a scatter plot.
-
-Calculate correlation and regression.
-
-Submit your final analysis.
+1) Prepare the data.
+2) Generate summary statistics.
+3) Create bar charts and pie charts.
+4) Calculate quartiles, find outliers, and create a box plot.
+5) Create a line plot and a scatter plot.
+6) Calculate correlation and regression.
+7) Submit your final analysis.
 
 **Prepare the Data**
 Run the provided package dependency and data imports, and then merge the mouse_metadata and study_results DataFrames into a single DataFrame.
